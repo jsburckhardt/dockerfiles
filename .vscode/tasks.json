@@ -89,7 +89,9 @@
       "options": [
         "noetic",
         "melodic",
+        "galactic-cuda",
         "galactic",
+        "foxy-cuda",
         "foxy",
         "gazebo11",
         "gazebo9",
